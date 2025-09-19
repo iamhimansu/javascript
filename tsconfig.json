@@ -14,6 +14,10 @@
         "outDir": "./dist",
         "removeComments": true,
         "allowJs": true,
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "strictNullChecks": true,
+        "noImplicitThis": true,
+        "exactOptionalPropertyTypes": true,
+        "noImplicitReturns": true
     }
 }
